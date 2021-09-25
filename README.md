@@ -5,4 +5,3 @@
       specialised in Mould making, sculpting and Special Effects
 - 📫 You can reach me at my Homepage https://konstantin.melchger.de/
 
-- 🤖 Check out my robot python code here https://konstantin.melchger.de/python/
